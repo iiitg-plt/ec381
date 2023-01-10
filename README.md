@@ -1,5 +1,7 @@
 
-## EC381- Embedded System
+## Assignment 1- Due by 20.01.2023 - Understanding Maximum Urgency First Algorithm - Groupwise Activity (Provide a comprehensive review of the paper and create examples for the algorithm in the paper- [Link to download the paper](https://kilthub.cmu.edu/ndownloader/files/12122975)
+
+
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
