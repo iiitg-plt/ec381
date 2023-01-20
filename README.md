@@ -14,7 +14,7 @@
 
 
 ### Assignment 1- Due by 20.01.2023 - Understanding Different Real Time Task Scheduling Algorithms - Group-wise Activity (Provide a comprehensive review of the paper and create examples for the algorithm in the paper- [Link to download the paper](https://kilthub.cmu.edu/ndownloader/files/12122975)
-### Submission Link for Assignment-1 - [Group-1](https://drive.google.com/drive/folders/1-66YFg85KrVP0Zm97RUOv27iwQR8JJRQ?usp=share_link), [Group-2]()
+### Submission Link for Assignment-1 - [Group-1](https://drive.google.com/drive/folders/1-66YFg85KrVP0Zm97RUOv27iwQR8JJRQ?usp=share_link), [Group-2](https://drive.google.com/drive/folders/1zMtI5t0YNm6KE66axXUf7gZnQTC9bcyN?usp=share_link), [Group-3](https://drive.google.com/drive/folders/1X01TZrwnDPD3VuiSPOxCsNZoO_ws8YVl?usp=sharing), [Group-4](), [Group-5](), [Group-6](), [Group-7](), [Group-8](), [Group-9](), [Group-10](),
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
 
