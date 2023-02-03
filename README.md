@@ -15,7 +15,7 @@
 | 11  | 27-01-2023   |Lecture 11- ARM Microcontroller -Part-2| [27.01.2023](https://drive.google.com/file/d/1_C0GzpVUX-0XFvM1XanlM5wvJX_2J0yE/view?usp=share_link)|
 | 12  | 30-01-2023   |Lecture 12- ARM Microcontroller -Part-3| [30.01.2023](https://drive.google.com/file/d/1Cav1ent7sCg0NxMF9h5hC_KxQ77I70Yx/view?usp=share_link)|
 | 13  | 02-02-2023   |Lecture 13- ARM :Registers             | [02.02.2023](https://drive.google.com/file/d/1_FC3WcAE5kVJfhXChccKd2ZhFHtN0vfl/view?usp=share_link)|
-| 14  | 03-02-2023   |Lecture 14- ARM :Instruction Set Architecture| [02.02.2023](https://drive.google.com/file/d/1ZP-JnmNkobwbAgEn3ZMglSaY3Xs9GXTG/view?usp=share_link)|
+| 14  | 03-02-2023   |Lecture 14- ARM :Instruction Set Architecture| [03.02.2023](https://drive.google.com/file/d/1ZP-JnmNkobwbAgEn3ZMglSaY3Xs9GXTG/view?usp=share_link)|
 
 
 ### Class - Test-1 Schedule - 09.02.2023 9:00-9:30am   Syllabus- Sl.No.1-14
