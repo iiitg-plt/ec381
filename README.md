@@ -15,8 +15,10 @@
 | 11  | 27-01-2023   |Lecture 11- ARM Microcontroller -Part-2| [27.01.2023](https://drive.google.com/file/d/1_C0GzpVUX-0XFvM1XanlM5wvJX_2J0yE/view?usp=share_link)|
 | 12  | 30-01-2023   |Lecture 12- ARM Microcontroller -Part-3| [30.01.2023](https://drive.google.com/file/d/1Cav1ent7sCg0NxMF9h5hC_KxQ77I70Yx/view?usp=share_link)|
 | 13  | 02-02-2023   |Lecture 13- ARM :Registers             | [02.02.2023](https://drive.google.com/file/d/1_FC3WcAE5kVJfhXChccKd2ZhFHtN0vfl/view?usp=share_link)|
-| 14  | 03-02-2023   |Lecture 14- ARM :Instruction Set Architecture| [03.02.2023](https://drive.google.com/file/d/1ZP-JnmNkobwbAgEn3ZMglSaY3Xs9GXTG/view?usp=share_link)|
-
+| 14  | 03-02-2023   |Lecture 14- ARM :Instruction Set Architecture-1| [03.02.2023](https://drive.google.com/file/d/1ZP-JnmNkobwbAgEn3ZMglSaY3Xs9GXTG/view?usp=share_link)|
+| 15  | 06-02-2023   |Lecture 15- ARM :Instruction Set Architecture-2| [06.02.2023](https://drive.google.com/file/d/1hwcpEK3S-cSpQoHha-Zp61H6ya_jCT3K/view?usp=share_link)|
+| 16  | 10-02-2023   |Lecture 16- PIC Microcontroller| [10.02.2023](https://drive.google.com/file/d/1meiDeZbh5oIvTboA2FH2ONdjC0pW1Szu/view?usp=share_link) [Nptel-1](https://www.youtube.com/watch?v=C04ZthY8Yqk&list=PL419D0518A8E82285&index=2) [Nptel-2-](https://www.youtube.com/watch?v=VEAYB1A9SiA&list=PL419D0518A8E82285&index=3)|
+| 17  | 13-02-2023   |Lecture 17- The CPU Bus| From Textbook: Computers as Components - Wayne wolf 2nd Ed. Pg-153-160 |
 
 ### Class - Test-1 Schedule - 09.02.2023 9:00-9:30am   Syllabus- Sl.No.1-14
 ### Assignment 1- Due by 20.01.2023 - Understanding Different Real Time Task Scheduling Algorithms - Group-wise Activity (Provide a comprehensive review of the paper and create examples for the algorithm in the paper- [Link to download the paper](https://kilthub.cmu.edu/ndownloader/files/12122975)
