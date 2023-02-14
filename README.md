@@ -17,7 +17,7 @@
 | 13  | 02-02-2023   |Lecture 13- ARM :Registers             | [02.02.2023](https://drive.google.com/file/d/1_FC3WcAE5kVJfhXChccKd2ZhFHtN0vfl/view?usp=share_link)|
 | 14  | 03-02-2023   |Lecture 14- ARM :Instruction Set Architecture-1| [03.02.2023](https://drive.google.com/file/d/1ZP-JnmNkobwbAgEn3ZMglSaY3Xs9GXTG/view?usp=share_link)|
 | 15  | 06-02-2023   |Lecture 15- ARM :Instruction Set Architecture-2| [06.02.2023](https://drive.google.com/file/d/1hwcpEK3S-cSpQoHha-Zp61H6ya_jCT3K/view?usp=share_link)|
-| 16  | 10-02-2023   |Lecture 16- PIC Microcontroller| [10.02.2023](https://drive.google.com/file/d/1meiDeZbh5oIvTboA2FH2ONdjC0pW1Szu/view?usp=share_link) [Nptel-1](https://www.youtube.com/watch?v=C04ZthY8Yqk&list=PL419D0518A8E82285&index=2) [Nptel-2-](https://www.youtube.com/watch?v=VEAYB1A9SiA&list=PL419D0518A8E82285&index=3)|
+| 16  | 10-02-2023   |Lecture 16- PIC Microcontroller| [10.02.2023](https://drive.google.com/file/d/1meiDeZbh5oIvTboA2FH2ONdjC0pW1Szu/view?usp=share_link), [Nptel-1](https://www.youtube.com/watch?v=C04ZthY8Yqk&list=PL419D0518A8E82285&index=2), [Nptel-2](https://www.youtube.com/watch?v=VEAYB1A9SiA&list=PL419D0518A8E82285&index=3)|
 | 17  | 13-02-2023   |Lecture 17- The CPU Bus| From Textbook: Computers as Components - Wayne Wolf 2nd Ed. Pg-153-160 |
 
 ### Class - Test-1 Schedule - 09.02.2023 9:00-9:30am   Syllabus- Sl.No.1-14
