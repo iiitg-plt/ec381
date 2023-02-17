@@ -20,6 +20,7 @@
 | 16  | 10-02-2023   |Lecture 16- PIC Microcontroller| [10.02.2023](https://drive.google.com/file/d/1meiDeZbh5oIvTboA2FH2ONdjC0pW1Szu/view?usp=share_link), [Nptel-1](https://www.youtube.com/watch?v=C04ZthY8Yqk&list=PL419D0518A8E82285&index=2), [Nptel-2](https://www.youtube.com/watch?v=VEAYB1A9SiA&list=PL419D0518A8E82285&index=3)|
 | 17  | 13-02-2023   |Lecture 17- The CPU Bus| From Textbook: Computers as Components - Wayne Wolf 2nd Ed. Pg-153-160 |
 | 18  | 16-02-2023   |Lecture 18- DMA| From Textbook: Computers as Components - Wayne Wolf 2nd Ed. Pg-160-166 |
+| 19  | 17-02-2023   | Mid-Sem Review | Revisiting Sl-No-1-18 |
 
 
 ### Class - Test-1 Schedule - 09.02.2023 9:00-9:30am   Syllabus- Sl.No.1-14
