@@ -20,7 +20,7 @@
 | 18  | 16-02-2023   |Lecture 18- DMA| From Textbook: Computers as Components - Wayne Wolf 2nd Ed. Pg-160-166 |
 | 19  | 17-02-2023   | Mid-Sem Review | Revisiting Sl-No-1-18 |
 | 20  | 02-03-2023   | Memory Organization | [02.03.2023](https://drive.google.com/drive/folders/1GLuiCT_ASCpy0KqwAFvsRz5rJLSSZB5C?usp=share_link) |
-
+| 21  | 03-03-2023   | Timers and Counters | [03.03.2023](https://drive.google.com/file/d/1vmyser8fVDDL-iLeUB2IQGqfdvB67dfY/view?usp=share_link) |
 
 ### Class - Test-1 Schedule - 09.02.2023 9:00-9:30am   Syllabus- Sl.No.1-14
 ### Assignment 1- Due by 20.01.2023 - Understanding Different Real Time Task Scheduling Algorithms - Group-wise Activity (Provide a comprehensive review of the paper and create examples for the algorithm in the paper- [Link to download the paper](https://kilthub.cmu.edu/ndownloader/files/12122975)
