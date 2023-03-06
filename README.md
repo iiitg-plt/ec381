@@ -19,6 +19,7 @@
 | 17  | 13-02-2023   |Lecture 17- The CPU Bus| From Textbook: Computers as Components - Wayne Wolf 2nd Ed. Pg-153-160 |
 | 18  | 16-02-2023   |Lecture 18- DMA| From Textbook: Computers as Components - Wayne Wolf 2nd Ed. Pg-160-166 |
 | 19  | 17-02-2023   | Mid-Sem Review | Revisiting Sl-No-1-18 |
+| 20  | 02-03-2023   | Memory Organization | [02.03.2023](https://drive.google.com/drive/folders/1GLuiCT_ASCpy0KqwAFvsRz5rJLSSZB5C?usp=share_link) |
 
 
 ### Class - Test-1 Schedule - 09.02.2023 9:00-9:30am   Syllabus- Sl.No.1-14
