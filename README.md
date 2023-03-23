@@ -21,6 +21,19 @@
 | 19  | 17-02-2023   | Mid-Sem Review | Revisiting Sl-No-1-18 |
 | 20  | 02-03-2023   | Memory Organization | [02.03.2023](https://drive.google.com/drive/folders/1GLuiCT_ASCpy0KqwAFvsRz5rJLSSZB5C?usp=share_link) |
 | 21  | 03-03-2023   | Timers and Counters | [03.03.2023](https://drive.google.com/file/d/1vmyser8fVDDL-iLeUB2IQGqfdvB67dfY/view?usp=share_link) |
+| 22  | 06-03-2023   | Other Peripherals | [06.03.2023](https://drive.google.com/file/d/1vYaUaHfDbFYODs632guIwtAHv1cgQL-E/view?usp=share_link) |
+| 23  | 09-03-2023   | FPGA | [09.03.2023](https://drive.google.com/file/d/1lxuXbWYQXQh1DmfIOwKTV1Rcl6YxQl1e/view?usp=share_link) |
+| 24  | 10-03-2023   | Hamming Code | [10.03.2023](https://drive.google.com/file/d/1v2vYHoc906DhekVYCSkWIyaLjPVYd_K0/view?usp=share_link) |
+| 25  | 13-03-2023   | Verilog-Part-1 | [13.03.2023](https://drive.google.com/file/d/1zpKaVGM4zGzfJOs3pb8Hz0pQsDv9qXrO/view?usp=share_link) |
+| 26  | 16-03-2023   | Verilog-Part-2 | [16.03.2023](https://drive.google.com/file/d/16qGRlSDEiWFQpJTSBltrodTq7H5ro9zS/view?usp=share_link) |
+| 27  | 17-03-2023   | Verilog-Part-3 | [17.03.2023](https://drive.google.com/file/d/1IFuZPr7URaXVvKI1mKaojsR6uUCtyoiQ/view?usp=share_link) |
+| 28  | 20-03-2023   | Verilog-Part-4 | [20.03.2023](https://drive.google.com/file/d/1_atLE_StxAO_gp_3aSgupedHMWnvXSQ_/view?usp=share_link) |
+| 29  | 23-03-2023   | Verilog-Part-5 | [23.03.2023](https://drive.google.com/file/d/1siTOmXn5bohcRPSrUja5Kabrzx0anq-f/view?usp=share_link) |
+| 30  | 24-03-2023   | Verilog-Part-6 | [24.03.2023]() |
+
+
+Class-Test-1[Solution](https://docs.google.com/document/d/1lCoyZip7r5s_C0-Y3LPnVAnO2YjwWUf8/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
+Mid-Semester[Solution](https://docs.google.com/document/d/15ZAJ2lytTES7hMlGZQLct4uDxa92ZLr7/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
 
 <!---
 ### Class - Test-1 Schedule - 09.02.2023 9:00-9:30am   Syllabus- Sl.No.1-14
