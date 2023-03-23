@@ -32,8 +32,8 @@
 | 30  | 24-03-2023   | Verilog-Part-6 | [24.03.2023]() |
 
 
-### Class-Test-1[Solution](https://docs.google.com/document/d/1lCoyZip7r5s_C0-Y3LPnVAnO2YjwWUf8/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
-### Mid-Semester[Solution](https://docs.google.com/document/d/15ZAJ2lytTES7hMlGZQLct4uDxa92ZLr7/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
+### Class-Test-1-[Solution](https://docs.google.com/document/d/1lCoyZip7r5s_C0-Y3LPnVAnO2YjwWUf8/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
+### Mid-Semester-[Solution](https://docs.google.com/document/d/15ZAJ2lytTES7hMlGZQLct4uDxa92ZLr7/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
 
 <!---
 ### Class - Test-1 Schedule - 09.02.2023 9:00-9:30am   Syllabus- Sl.No.1-14
