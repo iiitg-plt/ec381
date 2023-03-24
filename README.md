@@ -22,7 +22,7 @@
 | 20  | 02-03-2023   | Memory Organization | [02.03.2023](https://drive.google.com/drive/folders/1GLuiCT_ASCpy0KqwAFvsRz5rJLSSZB5C?usp=share_link) |
 | 21  | 03-03-2023   | Timers and Counters | [03.03.2023](https://drive.google.com/file/d/1vmyser8fVDDL-iLeUB2IQGqfdvB67dfY/view?usp=share_link) |
 | 22  | 06-03-2023   | Other Peripherals | [06.03.2023](https://drive.google.com/file/d/1vYaUaHfDbFYODs632guIwtAHv1cgQL-E/view?usp=share_link) |
-| 23  | 09-03-2023   | FPGA | [09.03.2023](https://drive.google.com/file/d/1lxuXbWYQXQh1DmfIOwKTV1Rcl6YxQl1e/view?usp=share_link) |
+| 23  | 09-03-2023   | FPGA | [09.03.2023](http://eclub.iitk.ac.in/assets/lectures/summer14/fpga_avi.pdf) |
 | 24  | 10-03-2023   | Hamming Code | [10.03.2023](https://drive.google.com/file/d/1v2vYHoc906DhekVYCSkWIyaLjPVYd_K0/view?usp=share_link) |
 | 25  | 13-03-2023   | Verilog-Part-1 | [13.03.2023](https://drive.google.com/file/d/1zpKaVGM4zGzfJOs3pb8Hz0pQsDv9qXrO/view?usp=share_link) |
 | 26  | 16-03-2023   | Verilog-Part-2 | [16.03.2023](https://drive.google.com/file/d/16qGRlSDEiWFQpJTSBltrodTq7H5ro9zS/view?usp=share_link) |
