@@ -30,7 +30,8 @@
 | 28  | 20-03-2023   | Verilog-Part-4 | [20.03.2023](https://drive.google.com/file/d/1_atLE_StxAO_gp_3aSgupedHMWnvXSQ_/view?usp=share_link) |
 | 29  | 23-03-2023   | Verilog-Part-5 | [23.03.2023](https://drive.google.com/file/d/1siTOmXn5bohcRPSrUja5Kabrzx0anq-f/view?usp=share_link) |
 | 30  | 24-03-2023   | Verilog-Part-6 | [24.03.2023](https://drive.google.com/file/d/1c1M2kHfaqHQ0kKUVu9rZARM11e03I86T/view?usp=share_link) |
-
+| 31  | 30-03-2023   | Continue       |  |
+| 32  | 31-03-2023   | Continue       |  |
 
 ### [Class-Test-1-Solution](https://docs.google.com/document/d/1lCoyZip7r5s_C0-Y3LPnVAnO2YjwWUf8/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
 ### [Mid-Semester-Solution](https://docs.google.com/document/d/15ZAJ2lytTES7hMlGZQLct4uDxa92ZLr7/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
