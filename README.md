@@ -33,7 +33,7 @@
 | 31  | 30-03-2023   | Continue       |  |
 | 32  | 31-03-2023   | Continue       |  |
 | 33  | 03-04-2023   | Processes OS-Part-1       | [03.04.2023](https://drive.google.com/file/d/1wxIUQ582CkiUUz2BdTxnhmFf8pb0I3nx/view?usp=share_link) |
-| 34  | 03-04-2023   | Processes OS-Part-2       | [06.04.2023](https://drive.google.com/file/d/1YU0XNx3KLMFVvd3duszUELYhXWV4L2ZS/view?usp=share_link) |
+| 34  | 06-04-2023   | Processes OS-Part-2       | [06.04.2023](https://drive.google.com/file/d/1YU0XNx3KLMFVvd3duszUELYhXWV4L2ZS/view?usp=share_link) |
 
 
 ### [Class-Test-1-Solution](https://docs.google.com/document/d/1lCoyZip7r5s_C0-Y3LPnVAnO2YjwWUf8/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
