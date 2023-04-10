@@ -34,7 +34,7 @@
 | 32  | 31-03-2023   | Continue       |  |
 | 33  | 03-04-2023   | Processes OS-Part-1       | [03.04.2023](https://drive.google.com/file/d/1wxIUQ582CkiUUz2BdTxnhmFf8pb0I3nx/view?usp=share_link) |
 | 34  | 06-04-2023   | Processes OS-Part-2       | [06.04.2023](https://drive.google.com/file/d/1YU0XNx3KLMFVvd3duszUELYhXWV4L2ZS/view?usp=share_link) |
-
+| 35  | 06-04-2023   | CPU Scheduling       | [10.04.2023](https://drive.google.com/file/d/1wbh2pazOVAI54oP7iT9vDJ8dPmDb37SH/view?usp=sharing) |
 
 ### [Class-Test-1-Solution](https://docs.google.com/document/d/1lCoyZip7r5s_C0-Y3LPnVAnO2YjwWUf8/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
 ### [Mid-Semester-Solution](https://docs.google.com/document/d/15ZAJ2lytTES7hMlGZQLct4uDxa92ZLr7/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)
