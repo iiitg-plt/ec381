@@ -19,7 +19,7 @@
 | 17  | 13-02-2023   |Lecture 17- The CPU Bus| From Textbook: Computers as Components - Wayne Wolf 2nd Ed. Pg-153-160 |
 | 18  | 16-02-2023   |Lecture 18- DMA| From Textbook: Computers as Components - Wayne Wolf 2nd Ed. Pg-160-166 |
 | 19  | 17-02-2023   | Mid-Sem Review | Revisiting Sl-No-1-18 |
-| 20  | 02-03-2023   | Memory Organization | [02.03.2023](https://drive.google.com/drive/folders/1GLuiCT_ASCpy0KqwAFvsRz5rJLSSZB5C?usp=share_link) |
+| 20  | 02-03-2023   | Memory Organization | [02.03.2023](https://drive.google.com/file/d/14xNdEcZZmesGCRf8DwNcCjsKtvTo4ZPn/view?usp=share_link) |
 | 21  | 03-03-2023   | Timers and Counters | [03.03.2023](https://drive.google.com/file/d/1vmyser8fVDDL-iLeUB2IQGqfdvB67dfY/view?usp=share_link) |
 | 22  | 06-03-2023   | Other Peripherals | [06.03.2023](https://drive.google.com/file/d/1vYaUaHfDbFYODs632guIwtAHv1cgQL-E/view?usp=share_link) |
 | 23  | 09-03-2023   | FPGA | [09.03.2023](http://eclub.iitk.ac.in/assets/lectures/summer14/fpga_avi.pdf) |
